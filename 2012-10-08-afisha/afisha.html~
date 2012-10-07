@@ -1,0 +1,65 @@
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<link rel="stylesheet" type="text/css" href="CSS/style.css">
+	<title>Ну, Погоди!</title>
+</head>
+<body>
+	<table width="100%" border="0" cellspacing="0">
+		<tr>
+			<td colspan="3" class="header"><marquee behavior="scroll" direction="left">
+    Только сегодня! "Ну, Погоди!" у нас в городе!
+  </marquee></td>
+		</tr>
+		<tr>
+			<td class="images" valign="top"><img src="img/logo.jpg"><img src="img/img2.jpg"></td>
+			<td class="content" valign="top">
+				<h1>Ну, погоди!</h1>
+				<p>«Ну, погоди!» — популярнейший советский и российский мультсериал. По версии IMDb, входит в пятёрку наиболее высоко оценённых советских и российских фильмов со средней оценкой 9,0 (из 10).</p>
+<p>Нехороший Волк ненавидит хорошего Зайца и в каждом выпуске пытается причинить ему вред, но Заяц всегда "выходит сухим из воды", а Волку за все приходится расплачиваться. Этот принцип Тома и Джерри и прекрасно созданные образы обеспечили многолетнюю популярность мультсериала, к созданию которого Котеночкин приступил в 1969 году. Смотреть его будут и внуки наших детей.</p>
+<div id="scroll">
+<marquee behavior="scroll" direction="left">
+    <img src="img/img3.jpg" >
+    <img src="img/img4.jpg" >
+    <img src="img/img5.jpg" >
+    <img src="img/img6.jpg" >
+    <img src="img/img7.png" >
+</marquee>
+</div>
+			</td>
+			<td class="info" valign="top">
+				<table >
+					<tr>
+					<td colspan="2" class="infHead">Информация</td>
+					</tr>
+					<tr>
+						<td valign="top">Режиссер:</td>
+						<td valign="top">Вячеслав Котеночкин</td>
+					</tr>
+					<tr>
+						<td valign="top">Сценарий:</td>
+						<td valign="top">Феликс Камов, Александр Курляндский, Аркадий Хайт</td>
+					</tr>
+					<tr>
+						<td valign="top">Продюсеры:</td>
+						<td valign="top"> Николай Прокопенко (17-18 серии), Елизавета Бабахина (19 серия)</td>
+					</tr>
+					<tr>
+						<td valign="top">Операторы:</td>
+						<td valign="top"> Елена Петрова, Светлана Кощеева, Александр Чеховский, Людмила Крутовская</td>
+					</tr>
+					<tr>
+						<td valign="top">В ролях: озвучание:</td>
+						<td valign="top">Анатолий Папанов (Волк), Клара Румянова (Заяц), Игорь Христенко (Волк -- 19 серия), Ольга Зверева (Заяц -- 19 серия)</td>
+					</tr>
+				</table>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="3" class="footer">
+				2012
+			</td>
+		</tr>	
+	</table>
+</body>
+</html>

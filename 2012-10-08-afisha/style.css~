@@ -1,0 +1,42 @@
+body {
+ padding: 0px;
+ margin:0px;
+ }
+.images {
+ width: 220px;
+ padding-top: 0px;
+ background-color:#3f8fd2; 
+ text-align: center;
+ }
+
+.header {
+ text-align: center;
+ font-size: 36px;
+ color:#3f8fd2;
+ background-color:#25547b; 
+ }
+
+.content {
+ color:#a66000;
+ background-color:#ff9400;
+ }
+
+.content h1{
+ color:#ffc473;
+ }
+
+.info {
+ width:250px;
+ background-color:#ffae40;
+ }
+
+.footer {
+ background-color:#043c6b;
+ }
+
+.infHead {
+ text-align: center;
+ }
+#scroll img {
+ height:250px;
+ }
